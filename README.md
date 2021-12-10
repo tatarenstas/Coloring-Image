@@ -1,2 +1,2 @@
 # Coloring-Image
-Coloring Image on Python
+Coloring image on Python
